@@ -1,4 +1,4 @@
-# brain-fuck
+# brain-f
 
 this is brainfuck
 +-<>,.[]
